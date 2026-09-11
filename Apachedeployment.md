@@ -18,7 +18,15 @@ Example: *Provisioned an AWS S3 bucket using Terraform. Configured versioning, b
 
 ## 🏗️ Architecture / How It Works
 
-[Describe the setup in simple steps. Add a diagram image if you have one.]
+[The `apacheDeployment.sh` script:
+
+1. Updates Ubuntu package information.
+2. Installs Apache2.
+3. Creates a custom HTML page.
+4. Starts Apache.
+5. Enables Apache at system startup.
+6. Checks Apache status.
+7. Tests the server using curl.]
 
 ```
 [Simple text diagram if needed]
@@ -42,10 +50,20 @@ Example:
 
 ## 📋 Steps to Reproduce
 
-1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/REPO_NAME.git`
-2. [Step 2 — e.g. Configure AWS CLI: `aws configure`]
-3. [Step 3 — e.g. Run Terraform: `terraform init && terraform apply`]
-4. [Step 4 — verify in AWS Console]
+The `apacheDeployment.sh` script:
+
+1. Updates Ubuntu package information.
+2. Installs Apache2.
+3. Creates a custom HTML page.
+4. Starts Apache.
+5. Enables Apache at system startup.
+6. Checks Apache status.
+7. Tests the server using curl.
+
+
+## How to run
+```bash
+bash apacheDeployment.sh
 
 ---
 
