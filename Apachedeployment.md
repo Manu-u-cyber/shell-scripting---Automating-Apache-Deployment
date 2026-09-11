@@ -1,4 +1,4 @@
-# [Project Title]
+# [Shell Scripting - Automating Apache Deployment]
 > Example: Apache Deployment | Ubuntu
 
 **Module:** Module [1]  
@@ -9,7 +9,8 @@
 
 ## 📌 What This Project Does
 
-[1-2 sentences. What did you build? What AWS service did you use?]
+[Shell Scripting - Automating Apache Deployment]
+[Automate the installation and deployment of Apache web server on Ubuntu using a Bash script.]
 
 Example: *Provisioned an AWS S3 bucket using Terraform. Configured versioning, bucket policy, and public access settings as Infrastructure as Code.*
 
@@ -32,10 +33,10 @@ Example:
 
 ## 🛠️ Services & Tools Used
 
-- **AWS:** [S3 / EC2 / RDS / VPC / Lambda / SQS / SNS]
-- **IaC:** [Terraform / CloudFormation / None]
-- **OS:** Amazon Linux 2 / Ubuntu
-- **Other:** [Git, Python, Bash — whatever you used]
+- Ubuntu
+- Bash
+- Apache2
+- curl
 
 ---
 
