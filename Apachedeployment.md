@@ -22,11 +22,10 @@ Example: *Provisioned an AWS S3 bucket using Terraform. Configured versioning, b
 
 1. Updates Ubuntu package information.
 2. Installs Apache2.
-3. Creates a custom HTML page.
-4. Starts Apache.
-5. Enables Apache at system startup.
-6. Checks Apache status.
-7. Tests the server using curl.]
+3. Starts Apache.
+4. Enables Apache at system startup.
+5. Checks Apache status.
+6. Tests the server using curl.]
 
 ```
 [Simple text diagram if needed]
@@ -69,7 +68,7 @@ bash apacheDeployment.sh
 
 ## 📸 Screenshot / Proof of Work
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://drive.google.com/file/d/1wLyQsROwK84ldxsczTDyK3bEHeHqJs5n/view?usp=drive_link)
 
 > *Replace with your own screenshot showing the completed resource in AWS Console.*
 
@@ -77,16 +76,16 @@ bash apacheDeployment.sh
 
 ## 💡 What I Learned
 
-- [Key learning 1 — e.g. How to manage S3 bucket policies]
-- [Key learning 2 — e.g. Difference between public and private S3 buckets]
-- [Key learning 3 — e.g. How Terraform state works]
+- [Key learning 1 — How to Deploye Apache though Automation ]
+- [Key learning 2 — How to test Aache using curl]
+- [Key learning 3 — How to start and stop services]
 
 ---
 
 ## ⚠️ Common Mistakes to Avoid
 
-- [Mistake 1 — e.g. Forgetting to run `terraform destroy` — will incur charges]
-- [Mistake 2]
+- [Mistake 1 — Forgetting to excute the exist command oon installation ]
+- [Mistake 2]-
 
 ---
 
